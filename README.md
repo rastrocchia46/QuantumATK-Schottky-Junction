@@ -2,7 +2,7 @@
 
 This project focuses on the simulation and analysis of a Schottky junction composed of Silver (Ag) and Silicon (Si), carried out using the QuantumATK platform. The aim was to study the quantum transport properties of the junction, particularly how the conduction behaviour evolves with respect to the applied bias voltage.
 
-!([Ag-Si Junction.jpg](https://github.com/rastrocchia46/QuantumATK-Schottky-Junction/blob/main/Ag-Si%20Junction.jpg))
+![Ag-Si Junction.jpg](https://github.com/rastrocchia46/QuantumATK-Schottky-Junction/blob/main/Ag-Si%20Junction.jpg)
 
 The simulated structure consisted of a two-electrode configuration, with Ag and Si electrodes. A semi-empirical Slater-Koster model was chosen to balance physical accuracy and computational efficiency, allowing us to perform reliable simulations across a range of conditions.
 
