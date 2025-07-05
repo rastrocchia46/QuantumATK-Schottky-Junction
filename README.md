@@ -1,5 +1,7 @@
 # Schottky Junction Simulation with QuantumATK
 
+![Metal-Semiconductor Device.jpg](https://github.com/rastrocchia46/QuantumATK-Schottky-Junction/blob/main/Metal-Semiconductor%20Device.jpg)
+
 This project focuses on the simulation and analysis of a Schottky junction composed of Silver (Ag) and Silicon (Si), carried out using the QuantumATK platform. The aim was to study the quantum transport properties of the junction, particularly how the conduction behaviour evolves with respect to the applied bias voltage.
 
 ![Ag-Si Junction.jpg](https://github.com/rastrocchia46/QuantumATK-Schottky-Junction/blob/main/Ag-Si%20Junction.jpg)
